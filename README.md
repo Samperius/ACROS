@@ -6,7 +6,7 @@ Automated Reaction Optimization Software (ACROS) provides Graphical User Interfa
 2. Create conda environment:  conda create --name <env> --file requirements.txt,where <env> is the name of the file
 
 ## Usage
-1. Specify reaction parameters using 'reaction_parameters_template.xlsx' and current experiments experiment_template.xlsx
+1. Specify reaction parameters using 'reaction_parameters_template.xlsx' and current experiments using 'experiment_template.xlsx'
 2. Set the file paths to 'settings.xlsx'
 3. Launch the Software in terminal using command: python ui.py
 
