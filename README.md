@@ -1,5 +1,5 @@
 # ACROS
-Automated Reaction Optimization Software provides Graphical User Interface for optimization of reaction conditions and controlling an OpenTrons pipetting robot
+Automated Reaction Optimization Software (ACROS) provides Graphical User Interface for optimization of reaction conditions and controlling an OpenTrons pipetting robot
 
 ## Installation
 1. Install Python and Anaconda https://saturncloud.io/blog/how-to-install-python-39-with-conda-a-guide-for-data-scientists/
